@@ -42,7 +42,7 @@ const ProductList = ({ selectedCategory }) => {
     <Container
       maxWidth="lg"
       sx={{
-        padding: { xs: '1rem', sm: '2rem' },
+        padding: { xs: '1rem', sm: '1rem' },
         marginLeft: { xs: 0, sm: '240px' },
         backgroundColor: theme.palette.background.default,
         color: theme.palette.text.primary,
